@@ -13,3 +13,9 @@
 [submodule "moe-form"]
 	path = moe-form
 	url = git@github.com:moetw/moe-form.git
+[submodule "moe-push-list"]
+	path = moe-push-list
+	url = git@github.com:moetw/moe-push-list.git
+[submodule "moe-push"]
+	path = moe-push
+	url = git@github.com:moetw/moe-push.git

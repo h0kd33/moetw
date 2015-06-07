@@ -19,3 +19,12 @@
 [submodule "moe-push"]
 	path = moe-push
 	url = git@github.com:moetw/moe-push.git
+[submodule "moe-board-header"]
+	path = moe-board-header
+	url = git@github.com:moetw/moe-board-header.git
+[submodule "moe-article-list"]
+	path = moe-article-list
+	url = git@github.com:moetw/moe-article-list.git
+[submodule "moe-board"]
+	path = moe-board
+	url = git@github.com:moetw/moe-board.git

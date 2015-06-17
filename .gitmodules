@@ -28,9 +28,6 @@
 [submodule "moe-board"]
 	path = moe-board
 	url = git@github.com:moetw/moe-board.git
-[submodule "moe-board-shell"]
-	path = moe-board-shell
-	url = git@github.com:moetw/moe-board-shell.git
 [submodule "moe-shell"]
 	path = moe-shell
 	url = git@github.com:moetw/moe-shell.git
@@ -46,9 +43,9 @@
 [submodule "moe-media-query"]
 	path = moe-media-query
 	url = git@github.com:moetw/moe-media-query.git
-[submodule "moe-article-shell"]
-	path = moe-article-shell
-	url = git@github.com:moetw/moe-article-shell.git
 [submodule "moe-article"]
 	path = moe-article
 	url = git@github.com:moetw/moe-article.git
+[submodule "moe-data-host"]
+	path = moe-data-host
+	url = git@github.com:moetw/moe-data-host.git

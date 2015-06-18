@@ -1,9 +1,6 @@
 [submodule "moe-comment"]
 	path = moe-comment
 	url = git@github.com:moetw/moe-comment.git
-[submodule "moe-comment-list"]
-	path = moe-comment-list
-	url = git@github.com:moetw/moe-comment-list.git
 [submodule "moe-paragraph"]
 	path = moe-paragraph
 	url = git@github.com:moetw/moe-paragraph.git

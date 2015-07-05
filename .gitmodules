@@ -46,3 +46,12 @@
 [submodule "moe-data-host"]
 	path = moe-data-host
 	url = git@github.com:moetw/moe-data-host.git
+[submodule "moe-utility-behavior"]
+	path = moe-utility-behavior
+	url = git@github.com:moetw/moe-utility-behavior.git
+[submodule "moe-push-form"]
+	path = moe-push-form
+	url = git@github.com:moetw/moe-push-form.git
+[submodule "moe-gallery"]
+	path = moe-gallery
+	url = git@github.com:moetw/moe-gallery.git

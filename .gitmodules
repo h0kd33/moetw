@@ -55,3 +55,6 @@
 [submodule "moe-gallery"]
 	path = moe-gallery
 	url = git@github.com:moetw/moe-gallery.git
+[submodule "moe-listview"]
+	path = moe-listview
+	url = git@github.com:moetw/moe-listview.git

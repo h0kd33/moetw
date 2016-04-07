@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="import" href="moe-video.build.html">
+</head>
+<body>
+
+<moe-video class="single"></moe-video>
+<moe-video class="multi"></moe-video>
+</body>
+<script>
+    (function () {
+
+        setTimeout(function() {
+            document.querySelector('moe-video.single').data = [{
+                title: '別再用長射程的狗角了CHAOS有夠難打 ',
+                type: 'youtube',
+                videoId: '-rSW74L-XMA'
+            }];
+
+        }, 500);
+
+        setTimeout(function() {
+            document.querySelector('moe-video.multi').data = [{
+                title: '別再用長射程的狗角了CHAOS有夠難打 ',
+                type: 'youtube',
+                videoId: '-rSW74L-XMA'
+            }, {
+                title: '還有人要連嗎ლ(́◉◞౪◟◉‵ლ)',
+                type: 'youtube',
+                videoId: '_-_h2vQyzJY'
+            }, {
+                title: '是不會放1.4的載點喔網路上都死檔了 ',
+                type: 'youtube',
+                videoId: 'WraWs2qMgdY'
+            }, {
+                title: 'YouTube 低調推 8K 影片，但你的電腦跑得動嗎?',
+                type: 'youtube',
+                videoId: '9EUNhXFuyLo'
+            }, {
+                title: '已經有一種電視叫做Digital Media TV了，普遍被做成4K，灌了Android可以看youtube和facebook。',
+                type: 'youtube',
+                videoId: 'Iab-eTykmBs'
+            }, {
+                title: 'f',
+                type: 'youtube',
+                videoId: 'QbMe5cSTVo8'
+            }, {
+                title: 'g',
+                type: 'youtube',
+                videoId: 'CTVWhycMj74'
+            }, {
+                title: 'h',
+                type: 'youtube',
+                videoId: '_L2zXi-yLcU'
+            }];
+
+        }, 2000);
+
+    })();
+</script>
+</html>

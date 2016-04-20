@@ -61,3 +61,6 @@
 [submodule "moe-rate-btn"]
 	path = moe-rate-btn
 	url = git@github.com:moetw/moe-rate-btn.git
+[submodule "poi-admin-pages"]
+	path = poi-admin-pages
+	url = git@github.com:moetw/poi-admin-pages.git
